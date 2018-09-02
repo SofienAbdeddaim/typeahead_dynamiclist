@@ -1,0 +1,9 @@
+<label for="typeahead-format">Search for a state:</label>
+<input id="typeahead-format"
+       type="text" class="form-control"
+       [(ngModel)]="model"
+       [ngbTypeahead]="search"
+       [resultFormatter]="formatter"
+       #valueOfInput
+/>
+<button type="button" class="btn btn-primary" style="margin-top: 10px" (click)="addToList(valueOfInput.value)">Add</button>

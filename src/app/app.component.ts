@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'forAstudent';
+  selectedData = [];
+
+  onFetchData(value) {
+    console.log(value);
+    this.selectedData.push(value)
+  }
 }
