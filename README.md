@@ -2,8 +2,8 @@
 
 A simple typeahead input which read data from an object or a json file and add it dynamically to a list
 also it's possible that you delete a data from the list
-![alt text](https://i.gyazo.com/a754b85c5f1675d04932ed176826dcfa)
-![alt text](https://i.gyazo.com/e982fd24bdc394bd356c79b0bd727638)
+![alt text](https://i.gyazo.com/a754b85c5f1675d04932ed176826dcfa.gif)
+![alt text](https://i.gyazo.com/e982fd24bdc394bd356c79b0bd727638.gif)
 
 
 ## Development server
