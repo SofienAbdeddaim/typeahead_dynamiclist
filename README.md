@@ -1,6 +1,10 @@
 # ForAstudent
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
+A simple typeahead input which read data from an object or a json file and add it dynamically to a list
+also it's possible that you delete a data from the list
+![alt text](https://gyazo.com/a754b85c5f1675d04932ed176826dcfa)
+![alt text](https://gyazo.com/e982fd24bdc394bd356c79b0bd727638)
+
 
 ## Development server
 
